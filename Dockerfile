@@ -2,7 +2,7 @@
 # Dockerfile for phpmyadmin-arm
 #
 
-# TEST_ENV: 172.28.211.70
+# TEST_ENV: 202.96.191.170
 
 FROM easypi/alpine-arm
 MAINTAINER EasyPi Software Foundation
